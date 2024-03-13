@@ -24,7 +24,5 @@ Os requisitos para este desafio são:
 É preciso ter o Go instalado no seu sistema. Se não tiver, você pode baixá-lo e instalá-lo [aqui](https://golang.org/dl/).
 
 ## Execução
-
-  - Server
-    - go build
-    - ./buscarcep {cep}
+  - go build
+  - ./buscarcep {cep}
